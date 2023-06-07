@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    @apply bg-transparent text-white font-semibold;
+}
+.default{
+    @apply bg-transparent text-white font-semibold;
+}
